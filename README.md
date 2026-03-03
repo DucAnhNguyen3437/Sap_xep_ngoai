@@ -17,4 +17,4 @@
 ## 4. Lưu ý
 - Ứng dụng chỉ hỗ trợ file nhị phân chứa số thực 8 bytes (double, IEEE 754).
 - Nếu file lớn, chỉ hiển thị kết quả cuối cùng.
-- File gen_sample_text.py có tác dụng tạo một file nhị phân tên là sample_data.bin chứa 10 số thực (kiểu double) được sinh ngẫu nhiên trong khoảng từ -100 đến 100 nhằm phục vụ cho việc tạo dữ liệu đầu vào cho file main.py nếu chưa có sẵn dữ liệu đầu vào. 
+- File `gen_sample_text.py` có tác dụng tạo một file nhị phân tên là sample_data.bin chứa 10 số thực (kiểu double) được sinh ngẫu nhiên trong khoảng từ -100 đến 100 nhằm phục vụ cho việc tạo dữ liệu đầu vào cho file main.py nếu chưa có sẵn dữ liệu đầu vào. 
